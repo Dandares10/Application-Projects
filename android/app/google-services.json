@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "543380350011",
+    "project_id": "tour-app-c3f49",
+    "storage_bucket": "tour-app-c3f49.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543380350011:android:b52002d1a56ad377c7a81e",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFLg61_QY_T6OkrWdySt3Hrm5479pe9Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543380350011:android:db4d69e46e805abdc7a81e",
+        "android_client_info": {
+          "package_name": "com.example.tour_recommendation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFLg61_QY_T6OkrWdySt3Hrm5479pe9Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
