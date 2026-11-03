@@ -20,19 +20,12 @@ A task-management web application with a Next.js client and an Express/MongoDB b
 - [Read project overview](./taskfyer/README.md)
 - [Follow setup instructions](./taskfyer/SETUP_GUIDE.md)
 
-## Project on `Blog-app`
-
-The blog application is maintained separately on the [`Blog-app` branch](https://github.com/Dandares10/Websites/tree/Blog-app). That branch contains its own README and `blogapp.zip`; it does not include the projects listed above.
-
 ## Repository layout
 
 ```text
 main
 ├── flutter-login/    Flutter UI prototypes
 └── taskfyer/         Taskfyer frontend and backend
-
-Blog-app
-└── blogapp.zip       Separate blog application archive
 ```
 
 There is no repository-wide build command. Use the README and setup guide for the project you intend to run.
