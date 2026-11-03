@@ -12,9 +12,8 @@ This repository contains independent learning projects. Each project lives in it
 ## Projects on other branches
 
 - [Blog app (`Blog-app` branch)](https://github.com/Dandares10/Websites/tree/Blog-app) — contains the separate `blogapp.zip` project.
-- [Taskfyer (`Dandares10-taskapp` branch)](https://github.com/Dandares10/Websites/tree/Dandares10-taskapp) — an earlier, different snapshot of the Taskfyer implementation.
 
-The `task` branch contained the same README and Flutter screen files as `main`, with no additional project files, so it is redundant.
+The former `task` and `Dandares10-taskapp` branches duplicated projects now organized on `main`, so they have been removed. The `Blog-app` branch is retained because it contains a separate blog project.
 
 ## Repository layout
 
