@@ -1,26 +1,27 @@
 # Applications
 
-This repository is an index to independent application projects. It does not contain copies of their source code; each project remains in its own repository with its own history and setup instructions.
+Independent projects are organized as branches in this repository. Each project branch has its own files and Git history; the `main` branch is reserved for this index.
 
-## Application projects
+## Application branches
 
-| Project | Description | Source |
+| Project | Description | Branch |
 |---|---|---|
-| BlogApp | Full-stack MERN blog application. | [BlogApp repository](https://github.com/Dandares10/BlogApp) |
-| Tour Recommender | Flutter tour and location recommendation prototype, currently maintained on a separate branch. | [Tour-Recommender branch](https://github.com/Dandares10/Application-Projects/tree/Tour-Recommender) |
-| CodeMedic | Java command-line debugging assistant built with Gradle. | [CodeMedic repository](https://github.com/Dandares10/CodeMedic-Project) |
-| E-commerce Application | React and TypeScript e-commerce prototype. | [E-commerce repository](https://github.com/Dandares10/E-commerce-Application-) |
-| LeetCode Visual | LeetCode problem visualization project. | [LeetCode Visual repository](https://github.com/Dandares10/leetcode_visual) |
-| LeetCode Grind | Java solutions to LeetCode problems. Kept separate from the visualization app. | [LeetCode Grind repository](https://github.com/Dandares10/Leetcode-Grind) |
+| BlogApp | Full-stack MERN blog application. | [blogapp](https://github.com/Dandares10/Application-Projects/tree/blogapp) |
+| Tour Recommender | Flutter tour and location recommendation prototype. | [Tour-Recommender](https://github.com/Dandares10/Application-Projects/tree/Tour-Recommender) |
+| CodeMedic | Java command-line debugging assistant built with Gradle. | [codemedic](https://github.com/Dandares10/Application-Projects/tree/codemedic) |
+| E-commerce Application | React and TypeScript e-commerce prototype. | [ecommerce](https://github.com/Dandares10/Application-Projects/tree/ecommerce) |
+| LeetCode Visual | LeetCode problem visualization project. | [leetcode-visual](https://github.com/Dandares10/Application-Projects/tree/leetcode-visual) |
+| LeetCode Grind | Java solutions to LeetCode problems. Kept separate from the visualization app. | [leetcode-grind](https://github.com/Dandares10/Application-Projects/tree/leetcode-grind) |
+| Websites | Taskfyer and Flutter UI prototypes. | [websites](https://github.com/Dandares10/Application-Projects/tree/websites) |
 
-## Related projects
+## Preserved project branches
 
-| Project | Description | Source |
-|---|---|---|
-| Websites | A collection including Taskfyer and Flutter UI prototypes. | [Websites repository](https://github.com/Dandares10/Websites) |
+Some source repositories had additional branches with their own history. They are retained separately:
+
+- [CodeMedic patch 1](https://github.com/Dandares10/Application-Projects/tree/codemedic-patch-1)
+- [CodeMedic patch 2](https://github.com/Dandares10/Application-Projects/tree/codemedic-patch-2)
+- [LeetCode Visual deployment branch](https://github.com/Dandares10/Application-Projects/tree/leetcode-visual-gh-pages)
 
 ## Working with a project
 
-Clone the repository linked above and follow that project's README for requirements, setup, and current limitations. The projects are maintained independently, so their maturity, tooling, and run instructions vary.
-
-This index is intended to make the projects easier to discover. It does not combine their code or histories into a monorepo.
+Open the relevant branch and follow its README for project-specific setup and status. Projects remain independent; there is no repository-wide build command.
