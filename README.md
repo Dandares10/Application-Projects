@@ -11,7 +11,7 @@ Independent projects are organized as branches in this repository. Each project 
 | CodeMedic | Java command-line debugging assistant built with Gradle. | [codemedic](https://github.com/Dandares10/Application-Projects/tree/codemedic) |
 | E-commerce Application | React and TypeScript e-commerce prototype. | [ecommerce](https://github.com/Dandares10/Application-Projects/tree/ecommerce) |
 | LeetCode Visual | LeetCode problem visualization project. | [leetcode-visual](https://github.com/Dandares10/Application-Projects/tree/leetcode-visual) |
-| LeetCode Grind | Java solutions to LeetCode problems. Kept separate from the visualization app. | [leetcode-grind](https://github.com/Dandares10/Application-Projects/tree/leetcode-grind) |
+| LeetCode Grind | Java solutions to LeetCode problems. Kept separate from the visualization app. | [Leetcode-Grind repository](https://github.com/Dandares10/Leetcode-Grind); also preserved on the [leetcode-grind branch](https://github.com/Dandares10/Application-Projects/tree/leetcode-grind). |
 | Websites | Taskfyer and Flutter UI prototypes. | [websites](https://github.com/Dandares10/Application-Projects/tree/websites) |
 
 ## Preserved project branches
